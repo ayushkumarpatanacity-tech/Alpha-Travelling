@@ -6,7 +6,7 @@
 //send both AI trip plan + matching properties back to the frontend/user 
 
 
-import {Property} from "../models/propertyModel.js";
+import {Property} from "../Models/propertyModel.js";
 import { planTrip } from "../ai/tripPlanner.js";
 import { generateDescription } from "../ai/generateDescription.js";
 
