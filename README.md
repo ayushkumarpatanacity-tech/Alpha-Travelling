@@ -1,4 +1,4 @@
-# ✈️ Alpha Travelling
+# Alpha Travelling
 
 Alpha Travelling is a full-stack travel and accommodation website built using the **MERN Stack**. The project allows users to explore properties, search for accommodations, manage bookings, and plan trips with an AI-powered trip planner.
 
@@ -6,7 +6,7 @@ Alpha Travelling is a full-stack travel and accommodation website built using th
 
 **https://alphatravelling.netlify.app/**
 
-## 🚀 Features
+##  Features
 
 * User Registration and Login
 * Secure Authentication
@@ -19,7 +19,7 @@ Alpha Travelling is a full-stack travel and accommodation website built using th
 * REST API Integration
 * MongoDB Database
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 ### Frontend
 
@@ -66,11 +66,11 @@ Alpha Travelling
 └── README.md
 ```
 
-## 💡 Project Objective
+##  Project Objective
 
 The main objective of Alpha Travelling is to create a simple and user-friendly platform where people can find suitable accommodations, manage their bookings, and plan their trips from one place.
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 * Online Payment Integration
 * Google Maps Integration
